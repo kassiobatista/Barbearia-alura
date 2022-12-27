@@ -1,0 +1,38 @@
+.tituloPrincipal{
+    text-align: left;
+    padding-left: 20px;
+
+}
+.divPrincipal{
+    background-color: lightgray;
+    padding: 20px;
+}
+.banner{
+    width: 100%;
+    height: 500px;
+    
+}
+.tituloSecundario{
+    text-align: center;
+}
+.paragrafoCentralizado{
+    text-align: center;
+}
+#paragrafoMissao{
+    text-align: center;
+    font-size: 20px;
+}
+b{
+    color: red;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    margin-right: 500px;
+    margin-left: 50px;
+}
+.beneficios{
+    width: 50%;
+    height: 500px;
+}
